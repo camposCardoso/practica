@@ -152,6 +152,8 @@ public class Notas {
 		
 		fc.aprobado();
 		
+		  System.out.println("Gracias por utilizar el programa.");
+		
 	}
 
 }
